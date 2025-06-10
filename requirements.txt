@@ -1,4 +1,2 @@
 streamlit
-pyvis
-networkx
-pandas
+streamlit-agraph
